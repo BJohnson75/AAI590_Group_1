@@ -21,7 +21,7 @@ To fully reproduce the project pipeline and follow our methodology, **run the no
 5. **AAI_590_Team-1_Model_Optimization_Analysis.ipynb**  
    *Systematic model tuning, robust cross-validation, and export of per-window performance metrics to `results_df.csv`.*
 
-6. **AAI_590_Team-1_Extra_Diag_Visuals.ipynb**  
+6. **AAI_590_Team-1_Diagnostics_Summary.ipynb**  
    *Use this notebook for additional diagnostics and visualization of model performance using `results_df.csv`.*
 
 ## Datasets
@@ -50,5 +50,6 @@ This work was completed as part of the MS Applied Artificial Intelligence curric
 
 **Contact:**  
 For questions or data requests, please open a GitHub issue or reach out to [AryazRez](https://github.com/AryazRez).
+
 
 
